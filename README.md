@@ -1,9 +1,9 @@
 ...
 ![Election's image](https://github.com/user-attachments/assets/c2887077-49a7-4214-a790-2863cc7d4c8c)
-### 2024 Election Result Analysis Project 🗳️📊
+### 2024 Election Result Analysis Project 🗳️📊 
 
-**Project Overview:**
-Today, I completed an engaging machine learning project focused on analyzing the 2024 election results. The goal was to provide insights into voting patterns, predict outcomes, and visualize data trends.
+**Project Overview in Details:**
+Today, I completed an engaging machine learning project focused on analyzing the 2024 election results. The goal was to provide insights into voting patterns, predict outcomes, and visualize data trends  this is election python project .
 
 **Key Highlights:**
 
